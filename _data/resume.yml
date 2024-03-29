@@ -32,14 +32,15 @@ work:
     summary: >
       Deniz provided Data Science solutions and consulting to the Australian e-commerce Giant THE ICONIC
     highlights:
-      - "Implemented Google Recommendations AI to produce lists such as Items You May Like and Similar Items"
-      - "Performed Exploratory Data Analysis and graph based distance calculations across the Fulfilment Center"
-      - "Implemented Vertex AI Time Series Forecasting for THE ICONIC's product portfolio"
-  - company: "Prediktiv Analytica"
+      - "Machine learning and deep learning models on Pytorch/Tensorflow"
+      - "Recommendation Engine applications"
+      - "Graph based AI algorithms"
+      - "Time series modelling"
+  - company: "THE ICONIC"
     position: "Senior Data Scientist"
     website: "https://www.prediktiv.com.au"
-    startDate: "2022-04-01"
-    endDate: ""
+    startDate: "2022-05-23"
+    endDate: "2023-05-23"
     summary: >
       Deniz provided Data Science solutions and consulting to the Australian e-commerce Giant THE ICONIC
     highlights:
