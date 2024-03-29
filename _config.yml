@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Deniz's Blog
+title:                 Deniz Nuhoglu
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -30,7 +30,7 @@ description:           >
   I have worked with business teams for 9 years and can blend technical skills with a strong business understanding. I don't hesitate to get my hands on technical projects, and remember to zoom out and stay business-savvy and result-oriented.
 
 # A shorter description for the sidebar.
-tagline:               Deniz Nuhoglu
+tagline:               Senior Data Scientist
 
 # A list of keywords for your blog
 keywords:              []
