@@ -62,9 +62,18 @@ work:
     startDate: "2019-10-01"
     endDate: "2020-12-01"
     summary: >
-      Deniz worked in the pricing analytics team
+      Deniz worked in the pricing analytics team at Commonwealth Bank,
     highlights:
       - "Price optimization for credit cards and personal loans"
+  - company: "Woolworths Group"
+    position: "Forecasting Analyst"
+    website: "https://www.woolworths.com.au/"
+    startDate: "2018-03-01"
+    endDate: "2019-09-30"
+    summary: >
+      Deniz worked in the demand planning team which was responsible for
+    highlights:
+      - "Forecasting liquor sales for Australia"
 education:
   - institution: "University of Sydney"
     area: "Information Technology"
