@@ -47,17 +47,34 @@ work:
       - "Implemented Google Recommendations AI to produce lists such as Items You May Like and Similar Items"
       - "Performed Exploratory Data Analysis and graph based distance calculations across the Fulfilment Center"
       - "Implemented Vertex AI Time Series Forecasting for THE ICONIC's product portfolio"
-
+  - company: "Vodafone"
+    position: "Data Scientist"
+    website: "https://www.vodafone.com.au/"
+    startDate: "2020-12-01"
+    endDate: "2023-05-22"
+    summary: >
+      Deniz worked as the main developer for the Next Best Action engine at Vodafone
+    highlights:
+      - "Development of the Next Best Action engine"
+  - company: "Commonwealth Bank"
+    position: "Senior Analyst"
+    website: "https://www.commbank.com.au/"
+    startDate: "2019-10-01"
+    endDate: "2020-12-01"
+    summary: >
+      Deniz worked in the pricing analytics team
+    highlights:
+      - "Price optimization for credit cards and personal loans"
 education:
   - institution: "University of Sydney"
     area: "Information Technology"
-    studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
+    studyType: "Masters"
+    startDate: "2019-06-01"
+    endDate: "2020-06-01"
     # gpa: "4.0"
     courses:
       - "Machine Learning"
-      - "CS2011 - Java Introduction"
+      - "Deep Learning"
 skills:
   - name: "Python"
     level: "Master"
