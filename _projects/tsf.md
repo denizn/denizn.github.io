@@ -14,7 +14,7 @@ image:
     480w:  /assets/img/projects/tsf.png
 links:
   - title: Link
-    url: https://denizn.github.com/time-series-forecaster/
+    url: https://denizn.github.io/time-series-forecaster/
 accent_color: '#4fb1ba'
 accent_image:
   background: '#193747'
