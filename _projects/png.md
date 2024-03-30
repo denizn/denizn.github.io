@@ -1,17 +1,17 @@
 ---
 layout: project
 title: 'Time Series Forecaster'
-caption: Time Series Forecaster with.
+caption: Mass Time Series Forecaster for Rossman Sales, showcasing backfitting cross-validation.
 description: >
   This is how I use Hydejack on my personal site. 
   Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
 date: 1 May 2024
 image: 
-  path: /assets/img/projects/png.jpg
+  path: /assets/img/projects/tsf.png
   srcset: 
-    1920w: /assets/img/projects/png.jpg
-    960w:  /assets/img/projects/png.jpg
-    480w:  /assets/img/projects/png.jpg
+    1920w: /assets/img/projects/tsf.png
+    960w:  /assets/img/projects/tsf.png
+    480w:  /assets/img/projects/tsf.png
 links:
   - title: Link
     url: https://denizn.github.com/time-series-forecaster/
