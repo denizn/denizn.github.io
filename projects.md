@@ -3,7 +3,6 @@ layout: projects
 title: Projects
 show_collection: projects
 description: >
-  How people are using Hydejack in the real world. 
-  This page is built using the `projects` layout* that you can use yourself to build a portfolio.
+  A sample portfolio of my data science projects are presented here
 no_groups: true
 ---
