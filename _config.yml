@@ -54,7 +54,7 @@ menu:
     url:               /projects/
   - title:             Blog
     url:               /blog/
-  - title:             Résumé*
+  - title:             Résumé
     url:               /resume/
 
 # Add links to the footer.
@@ -367,7 +367,7 @@ plugins:
 #   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://github.com/denizn
 
 
 # Plugin Configs

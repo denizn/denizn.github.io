@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Time Series Forecaster'
-caption: Mass Time Series Forecaster for Rossman Sales, showcasing backfitting cross-validation.
+caption: Mass Time Series Forecaster for Rossmann Sales, showcasing backfitting cross-validation.
 description: >
   Time Series Forecasting showcase project using Rossmann store sales data
   The project uses prophet algorithm and leverages backfitting cross-validation for all stores to find the best performing model
