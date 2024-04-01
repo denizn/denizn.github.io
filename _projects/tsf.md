@@ -1,11 +1,11 @@
 ---
 layout: project
-title: 'Time Series Forecaster'
-caption: Mass Time Series Forecaster for Rossmann Sales, showcasing backfitting cross-validation.
+title: 'tsf'
+caption: Time Series Forecasting
 description: >
-  Time Series Forecasting showcase project using Rossmann store sales data
-  The project uses prophet algorithm and leverages backfitting cross-validation for all stores to find the best performing model
-date: 1 May 2024
+  This project showcases a mass forecasting project for over 1000 Rossmann stores.
+  It leverages backtesting grid search to test performance on historical dataset to apply a pick best strategy.
+date: 1 Mar 2024
 image: 
   path: /assets/img/projects/tsf.png
   srcset: 
@@ -22,18 +22,5 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-For my personal site I've toned it down a bit. Instead of a flashy sidebar image, I chose a solid background color.
-However, I've given [certain](https://qwtel.com/projects/ducky-hunting/) [pages](https://qwtel.com/projects/blocky-blocks/) big sidebar images, and let Hydejack blend back to normal when the user navigates away.
 
-While I love the font used for Hydejack's headings, for my personal site I felt less of a need to control the typesetting.
-That's why I'm not using Google Fonts, and instead use whatever is the default for the reader's operating system.
-
-```yml
-google_fonts: false
-font:         false
-font_heading: false
-font_code:    false
-```
-
-The configuration I use to enable the system font on my site. Feel free to copy!
 {:.figcaption}
