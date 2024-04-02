@@ -25,7 +25,7 @@ basics:
       url: "https://www.linkedin.com/in/denizn"
 work:
   - company: "Prediktiv Analytica"
-    position: "Director, Senior Data Scientist"
+    position: "Founder, Senior Data Scientist"
     # website: "https://www.prediktiv.com.au"
     startDate: "2022-04-01"
     endDate: ""
